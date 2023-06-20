@@ -12,7 +12,7 @@
 **Steps to Implement this git repo**
 - Ensure that the requirements are completed
 - git clone this repo
-- rename .env.example to .env and provide the details like api key, api base etc
+- Edit .env and provide the details like api key, api base etc
 - Ensure you have a dir called saveDir in the same path as chatcsv.py
 - go to the cloned folder and execute the following
     - streamlit run chatcsv.py
